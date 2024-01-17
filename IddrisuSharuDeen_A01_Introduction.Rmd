@@ -22,22 +22,22 @@ Enter answers to the questions just below the >Answer: prompt.
 
 1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
 
-> Answer: 
+> Answer: More recently, I used R and data analytics in general in a Stats course last semester. Before that I did some few R courses on coursera which used some git operations.
 
 2. Are there any components of the course about which you feel confident?
 
-> Answer: 
+> Answer: Definitely the R and data analytics bit.
 
 3. Are there any components of the course about which you feel apprehensive?
 
-> Answer: 
+> Answer: Although, I had some initial engagement with git and github, I never quite appreciated how cool it can be until this tutorial. It makes more sense now conceptually, and I can't wait to dive into the nitty gritties. 
 
 
 ## 2) GitHub
 
 Provide a link below to your forked course repository in GitHub. Make sure you have pulled all recent changes from the course repository and that you have updated your course README file, committed those changes, and pushed them to your GitHub account. 
 
-> Answer: 
+> Answer: https://github.com/Baadigo/EDA_Spring2024.git
 
 ## 3) Knitting
 When you have completed this document, click the `knit` button.This should produce a PDF copy of your markdown document. Submit this PDF to Sakai. 
